@@ -5,7 +5,6 @@ layout: landing-page
 heading: Belkirk College
 partners:
 - https://res.cloudinary.com/samv/image/upload/v1548243353/samples/cloudinary-logo-vector.svg
-- "/v1548243363/samples/animals/kitten-playing.gif"
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
