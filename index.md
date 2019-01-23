@@ -11,7 +11,7 @@ partners:
 services:
 - heading: Yo
   description: jnjl
-  icon: ''
+  icon: https://res.cloudinary.com/samv/image/upload/v1548243357/samples/ecommerce/shoes.png
 - description: Performing collaborative research and providing services to support
     the Health Sector.
   heading: Health
