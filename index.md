@@ -36,6 +36,3 @@ menu:
     weight: 1
 
 ---
-Hello World
-
-> I'm here
