@@ -1,9 +1,10 @@
 ---
 title: Home
-banner_image: https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload/v1548243361/samples/cloudinary-group.jpg
+banner_image: https://res.cloudinary.com/samv/image/upload/v1548243355/samples/animals/reindeer.jpg
 layout: landing-page
 heading: Belkirk College
 partners:
+- https://res.cloudinary.com/samv/image/upload/v1548243353/samples/cloudinary-logo-vector.svg
 - "/v1548243363/samples/animals/kitten-playing.gif"
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
