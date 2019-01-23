@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/v1548243355/samples/animals/reindeer.jpg"
+banner_image: https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload/v1548243361/samples/cloudinary-group.jpg
 layout: landing-page
 heading: Belkirk College
 partners:
